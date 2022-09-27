@@ -1,6 +1,2 @@
 numpy
-matplotlib
 pandas
-yaml
-pickle
-tslearn
