@@ -1,6 +1,6 @@
 numpy
 matplotlib
-pandas as pd
+pandas
 yaml
 pickle
 tslearn
