@@ -1,5 +1,5 @@
 numpy
-matplotlib.pyplot as plt
+matplotlib
 pandas as pd
 yaml
 pickle
